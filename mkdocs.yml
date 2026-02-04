@@ -21,46 +21,48 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting Started:
-    - Overview: content/getting-started/index.md
-    - Quick Start: content/getting-started/quick-start.md
-    - Logging In: content/getting-started/login.md
-    - Navigation: content/getting-started/navigation.md
+    - Overview: getting-started/index.md
+    - Quick Start: getting-started/quick-start.md
+    - Logging In: getting-started/login.md
+    - Navigation: getting-started/navigation.md
   - User Roles:
-    - Overview: content/roles/index.md
-    - Inventory Manager: content/roles/inventory-manager.md
-    - Field Sales: content/roles/field-sales.md
-    - Billing: content/roles/billing.md
-    - Rep Manager: content/roles/rep-manager.md
-    - Viewer: content/roles/viewer.md
-    - Account Rep: content/roles/account-rep.md
-    - Finance: content/roles/finance.md
+    - Overview: roles/index.md
+    - Inventory Manager: roles/inventory-manager.md
+    - Field Sales: roles/field-sales.md
+    - Billing: roles/billing.md
+    - Rep Manager: roles/rep-manager.md
+    - Viewer: roles/viewer.md
+    - Account Rep: roles/account-rep.md
+    - Finance: roles/finance.md
   - Views:
-    - Overview: content/views/index.md
-    - Inventory Management: content/views/inventory-management.md
-    - My Bits: content/views/my-bits.md
-    - Find Bits: content/views/find-bits.md
-    - Transactions: content/views/transactions.md
-    - Nav History: content/views/nav-history.md
-    - eTransfer Tickets: content/views/etransfer-tickets.md
-    - eBilling Workbench: content/views/ebilling-workbench.md
-    - Add/Edit Customer Rep: content/views/add-edit-customer-rep.md
+    - Overview: views/index.md
+    - Inventory Management: views/inventory-management.md
+    - My Bits: views/my-bits.md
+    - Find Bits: views/find-bits.md
+    - Transactions: views/transactions.md
+    - Nav History: views/nav-history.md
+    - eTransfer Tickets: views/etransfer-tickets.md
+    - eBilling Workbench: views/ebilling-workbench.md
+    - Add/Edit Customer Rep: views/add-edit-customer-rep.md
   - Features:
-    - Overview: content/features/index.md
-    - Profile: content/features/profile.md
-    - Theme: content/features/theme.md
-    - Language: content/features/language.md
-    - Messages: content/features/messages.md
-    - Search & Filter: content/features/search-filter.md
+    - Overview: features/index.md
+    - Profile: features/profile.md
+    - Theme: features/theme.md
+    - Language: features/language.md
+    - Messages: features/messages.md
+    - Search & Filter: features/search-filter.md
   - Installation:
-    - Overview: content/installation/index.md
-    - Desktop: content/installation/desktop.md
-    - Mobile: content/installation/mobile.md
+    - Overview: installation/index.md
+    - Desktop: installation/desktop.md
+    - Mobile: installation/mobile.md
   - Admin:
-    - Overview: content/admin/index.md
-    - User Management: content/admin/user-management.md
-    - Permissions: content/admin/permissions.md
-    - Permissions Matrix: content/admin/permissions-matrix.md
+    - Overview: admin/index.md
+    - User Management: admin/user-management.md
+    - Permissions: admin/permissions.md
+    - Permissions Matrix: admin/permissions-matrix.md
   - Reference:
-    - Changelog: content/reference/changelog.md
-    - Glossary: content/reference/glossary.md
-    - Support: content/reference/support.md
+    - Changelog: reference/changelog.md
+    - Glossary: reference/glossary.md
+    - Support: reference/support.md
+
+docs_dir: content
