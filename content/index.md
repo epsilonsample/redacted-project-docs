@@ -1,6 +1,6 @@
 # Asset Management Information Dashboard
 
-Welcome to the Asset Management Information Dashboard. Here you can quickly find information for the most common roles and task.
+Welcome to the Asset Management Information Dashboard. Here you can find links to role and task documentation.
 
 ---
 
