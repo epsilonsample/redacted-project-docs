@@ -24,7 +24,7 @@ If you haven't already installed the Company Portal:
 1. Open the **Comp Portal** app.
 2. Search for the application (UAT or Production).
 3. Tap on the application.
-4. Tap **Install**
+4. Tap the **Install** button.
 5. Wait approximately 5 minutes for installation.
 
 !!! note "Already Installed?"
@@ -33,27 +33,27 @@ If you haven't already installed the Company Portal:
 ## Step 3: First-Time Sign In
 
 1. Locate the app icon on your home screen.
-2. Tap to open
+2. Tap to open.
 3. Tap **Continue** on the first screen.
-4. Tap **Continue** again
+4. Tap **Continue** again to access the application.
 
 ### Enter Credentials
 
 1. Enter your email address.
-2. Tap **Next**
+2. Tap **Next**.
 3. Enter your password on your organization's sign-in page.
-4. Tap **Sign In**
+4. Tap **Sign In**.
 
 ### Verify Identity
 
 1. Choose your verification method.
-2. Complete MFA verification
+2. Complete MFA verification.
 3. Choose **Yes** to stay signed in.
 
 ### Complete Setup
 
 1. Allow or deny notifications (your choice).
-2. Tap **Log In**
+2. Tap **Log In**.
 3. Configure your profile settings.
 
 !!! success "Installation Complete"
@@ -79,19 +79,19 @@ Contact IT Support to request access.
 
 - Check your internet connection.
 - Try closing and reopening Company Portal.
-- Contact HelpDesk if issue persists
+- Contact HelpDesk if the issue persists.
 
 ### Sign-In Issues
 
 - Verify your network credentials.
 - Ensure MFA is configured.
-- Contact HelpDesk for account issues
+- Contact HelpDesk for any account issues.
 
 ## Notes
 
 The first-time sign-in process only occurs:
 
-- On initial installation
+- On initial installation.
 - When you change your password.
 
 ## Related Documentation
