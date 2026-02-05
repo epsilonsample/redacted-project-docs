@@ -38,7 +38,7 @@ You will be taken directly to the [Inventory Management](../views/inventory-mana
 
 Access additional views through the left navigation menu:
 
-1. Click the **☰** (three lines) icon at the top left.
+1. Click the **☰** (hamburger) icon at the top left.
 2. Select the view you want to access.
 
 ![Navigation Menu Placeholder](../assets/images/placeholder-nav-menu.svg)
