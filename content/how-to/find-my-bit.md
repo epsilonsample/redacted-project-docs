@@ -16,8 +16,8 @@ Track down the current location and status of a specific bit.
 
 ## If You Don't Know the Serial Number
 
-1. Navigate to **Find Bits**.
-2. Use filters to narrow down:
+1. Navigate to the **Find Bits** view from the left menu.
+2. Use any or all of the following filters to limit the number of bits displayed in the results table:
    - **Product Group**
    - **Bit Size**
    - **Bit Type**
@@ -31,28 +31,28 @@ Track down the current location and status of a specific bit.
 
 To see where a bit has been:
 
-1. Navigate to **Nav History Transactions**.
+1. Navigate to the **Nav History Transactions** view from the left menu.
 2. Enter the serial number.
 3. Set the date range or Look Back Days.
-4. Click **Apply Filters**
+4. Click the **Apply Filters** button.
 5. Review the transaction history.
 
 ## Common Locations
 
 A bit might be:
 
-- In warehouse inventory
+- In warehouse inventory.
 - Assigned to a salesperson.
-- At a customer location
-- In transit (pending transfer)
-- On a delivery ticket
+- At a customer location.
+- In transit (pending transfer).
+- On a delivery ticket.
 
 ## If the Bit Appears Missing
 
 1. Check **See Locked Serials** toggle - it may be locked.
 2. Review Nav History for last known location.
 3. Check eTransfer Tickets for pending transfers.
-4. Contact the last known holder
+4. Contact the last known holder.
 
 ## Related Documentation
 
