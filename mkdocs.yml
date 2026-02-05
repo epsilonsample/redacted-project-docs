@@ -15,6 +15,7 @@ plugins:
 markdown_extensions:
   - admonition
   - tables
+  - attr_list
   - toc:
       permalink: true
   - pymdownx.emoji:
