@@ -1,13 +1,22 @@
 site_name: Asset Management
-site_url: https://vstarwriter.github.io/redacted-project-docs/
-repo_url: https://github.com/VSTARWriter/redacted-project-docs
 
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.footer
     - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 plugins:
   - search
@@ -18,6 +27,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
   - pymdownx.emoji:
@@ -44,11 +55,34 @@ nav:
     - Inventory Management: views/inventory-management.md
     - My Bits: views/my-bits.md
     - Find Bits: views/find-bits.md
+    - Bit Details: views/bit-details.md
     - Transactions: views/transactions.md
     - Nav History: views/nav-history.md
     - eTransfer Tickets: views/etransfer-tickets.md
     - eBilling Workbench: views/ebilling-workbench.md
     - Add/Edit Customer Rep: views/add-edit-customer-rep.md
+  - How To:
+    - Transfers:
+      - Accept a Transfer: how-to/accept-transfer.md
+      - Send Bits to Sales: how-to/send-bits-sales.md
+      - Send Bits to Another Rep: how-to/send-bits-rep.md
+      - Quick Send: how-to/quick-send.md
+      - Return Bits to Warehouse: how-to/return-bits.md
+    - Inventory:
+      - Lock a Bit: how-to/lock-bit.md
+      - Unlock a Bit: how-to/unlock-bit.md
+      - Submit a Bit Order: how-to/submit-bit-order.md
+      - Process a Bit Order: how-to/process-bit-order.md
+      - Consign a Bit: how-to/consign-bit.md
+      - Find a Bit: how-to/find-my-bit.md
+    - Billing & Tickets:
+      - Create Delivery Ticket: how-to/create-delivery-ticket.md
+      - Add Bit to Existing Ticket: how-to/add-bit-ticket.md
+      - Create Service Receipt: how-to/create-sr-ticket.md
+      - Find Tickets: how-to/find-tickets.md
+    - Pickups:
+      - Pick Up Bits: how-to/pickup-bits.md
+      - Pick Up DBR or LIH: how-to/pickup-dbr-lih.md
   - Features:
     - Overview: features/index.md
     - Profile: features/profile.md
@@ -66,6 +100,8 @@ nav:
     - Permissions: admin/permissions.md
     - Permissions Matrix: admin/permissions-matrix.md
   - Reference:
+    - Bit Statuses: reference/bit-statuses.md
+    - Line Statuses: reference/line-statuses.md
     - Changelog: reference/changelog.md
     - Glossary: reference/glossary.md
     - Support: reference/support.md
