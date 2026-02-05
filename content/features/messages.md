@@ -12,10 +12,10 @@ View in-app notifications and messages.
 
 Messages may include:
 
-    - System notifications
-    - Transfer alerts
-    - Workflow updates
-    - Important announcements
+- System notifications
+- Transfer alerts
+- Workflow updates
+- Important announcements
 
 ## Reading Messages
 
@@ -27,8 +27,8 @@ Messages may include:
 
 Look for notification badges or indicators that show:
 
-    - Number of unread messages
-    - New message alerts
+- Number of unread messages
+- New message alerts
 
 ## Related Documentation
 
