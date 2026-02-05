@@ -22,7 +22,7 @@ As a Rep Manager, you have access to:
 
 1. Navigate to the login page.
 2. Enter your **Username** and **Password**.
-3. Click **Log In**
+3. Click the **Log In** button.
 
 You will be taken directly to the Add/Edit Customer Rep view.
 
@@ -30,8 +30,8 @@ You will be taken directly to the Add/Edit Customer Rep view.
 
 Access the navigation menu:
 
-1. Click the **☰** (three lines) icon at the top left.
-2. Select available options
+1. Click the **☰** (hamburger) icon at the top left.
+2. Select any of the available options.
 
 ## Common Tasks
 
