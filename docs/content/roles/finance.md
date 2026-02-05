@@ -44,17 +44,17 @@ Access additional views through the left navigation menu:
 
 1. Go to **eBilling Workbench**
 2. Use filters to find specific ticket lines:
-   - **EBILLING FILTER** — Filter by status, date range, etc.
-   - **SALES PERSON FILTER** — Filter by sales representative
+    - **EBILLING FILTER** — Filter by status, date range, etc.
+    - **SALES PERSON FILTER** — Filter by sales representative
 3. Review ticket line details
 
 ### Viewing Historical Transactions
 
 1. Go to **Nav History Transactions**
 2. Set your filters:
-   - District and Location
-   - Serial number
-   - Date range (default: 7 days)
+    - District and Location
+    - Serial number
+    - Date range (default: 7 days)
 3. Click the **Apply Filters** button.
 4. Review the transaction history.
 
