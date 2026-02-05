@@ -15,6 +15,7 @@ Switch between dark and light display themes for comfortable viewing.
 ![Dark Mode Placeholder](../assets/images/placeholder-table-view.svg)
 
 Dark mode features:
+
     - Dark background colors.
     - Reduced eye strain in low-light environments.
     - Lower screen brightness.
@@ -24,6 +25,7 @@ Dark mode features:
 ![Light Mode Placeholder](../assets/images/placeholder-table-view.svg)
 
 Light mode features:
+
     - Light background colors,
     - Better visibility in bright environments.
     - Traditional document appearance.
