@@ -64,14 +64,16 @@ Click any row to open the **Bit Details** page for that bit.
 
 ## Common Tasks
 
-| Task | How To |
-|------|--------|
-| Submit a bit order | [Submit a Bit Order](../how-to/submit-bit-order.md) |
-| Send to another rep | [Send Bits to Another Sales Rep](../how-to/send-bits-rep.md) |
-| Consign a bit | [Consign a Bit](../how-to/consign-bit.md) |
-| Create delivery ticket | [Create a Delivery Ticket](../how-to/create-delivery-ticket.md) |
-| Add bit to ticket | [Add Bit to Existing Ticket](../how-to/add-bit-ticket.md) |
-| Quick send a bit | [Quickly Send a Bit](../how-to/quick-send.md) |
+<div class="grid cards" markdown>
+
+- :material-cart: [Submit a Bit Order](../how-to/submit-bit-order.md)
+- :material-account-arrow-right: [Send Bits to Another Rep](../how-to/send-bits-rep.md)
+- :material-handshake: [Consign a Bit](../how-to/consign-bit.md)
+- :material-ticket: [Create a Delivery Ticket](../how-to/create-delivery-ticket.md)
+- :material-ticket-plus: [Add Bit to Existing Ticket](../how-to/add-bit-ticket.md)
+- :material-flash: [Quickly Send a Bit](../how-to/quick-send.md)
+
+</div>
 
 ## Related Documentation
 

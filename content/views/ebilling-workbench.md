@@ -125,13 +125,15 @@ Toggle **See Locked Serials** to include or exclude locked bits from the display
 
 ## Common Tasks
 
-| Task | Documentation |
-|------|---------------|
-| Find a specific ticket | [How to Find Tickets](../how-to/find-tickets.md) |
-| Create service receipt | [Create Service Receipt Tickets](../how-to/create-sr-ticket.md) |
-| Pick up bits | [How to Pick Up Bits](../how-to/pickup-bits.md) |
-| Pick up DBR/LIH bits | [Pick Up DBR or LIH Bits](../how-to/pickup-dbr-lih.md) |
-| Locate a missing bit | [Where Is My Bit?](../how-to/find-my-bit.md) |
+<div class="grid cards" markdown>
+
+- :material-magnify: [Find Tickets](../how-to/find-tickets.md)
+- :material-receipt: [Create Service Receipt](../how-to/create-sr-ticket.md)
+- :material-package-up: [Pick Up Bits](../how-to/pickup-bits.md)
+- :material-alert-circle: [Pick Up DBR or LIH Bits](../how-to/pickup-dbr-lih.md)
+- :material-crosshairs-question: [Where Is My Bit?](../how-to/find-my-bit.md)
+
+</div>
 
 ## Related Documentation
 

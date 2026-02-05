@@ -40,10 +40,12 @@ Use the search functionality to find specific customer representatives.
 
 ## Common Tasks
 
-| Task | Steps |
-|------|-------|
-| Add new rep | Navigate to Add/Edit Customer Rep → Fill in required fields → Save |
-| Edit existing rep | Search for the rep → Select record → Update fields → Save |
+<div class="grid cards" markdown>
+
+- :material-account-plus: **Add new rep** — Navigate to Add/Edit Customer Rep → Fill in required fields → Save
+- :material-account-edit: **Edit existing rep** — Search for the rep → Select record → Update fields → Save
+
+</div>
 
 ## Related Documentation
 

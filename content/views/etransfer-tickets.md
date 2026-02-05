@@ -75,13 +75,15 @@ Click **Clear filter-sort** to reset table sorting and filtering.
 
 ## Common Tasks
 
-| Task | How To |
-|------|--------|
-| Accept a transfer | [Accept Bits Sent To You](../how-to/accept-transfer.md) |
-| Send bits to sales | [Send Bits to a Field Salesperson](../how-to/send-bits-sales.md) |
-| Send bits to a rep | [Send Bits to Another Sales Rep](../how-to/send-bits-rep.md) |
-| Quick send a bit | [Quickly Send a Bit](../how-to/quick-send.md) |
-| Return bits | [Send Bits Back to the Warehouse](../how-to/return-bits.md) |
+<div class="grid cards" markdown>
+
+- :material-check-circle: [Accept Bits Sent To You](../how-to/accept-transfer.md)
+- :material-send: [Send Bits to a Field Salesperson](../how-to/send-bits-sales.md)
+- :material-account-arrow-right: [Send Bits to Another Sales Rep](../how-to/send-bits-rep.md)
+- :material-flash: [Quickly Send a Bit](../how-to/quick-send.md)
+- :material-warehouse: [Return Bits to Warehouse](../how-to/return-bits.md)
+
+</div>
 
 ## Related Documentation
 
