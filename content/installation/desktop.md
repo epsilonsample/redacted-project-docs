@@ -24,7 +24,7 @@ Install Asset Management on your Windows desktop.
 ### Step 2: Install the Application
 
 1. Click on the application icon to open the details page.
-2. Click **Install**
+2. Click the **Install** button.
 3. Wait for the installation to complete.
 4. The Asset Management icon will appear on your desktop.
 
@@ -35,26 +35,26 @@ Install Asset Management on your Windows desktop.
 1. Double-click the **Asset Management** icon
 2. The Single Sign-On page appears.
 3. Enter your **network email address**.
-4. Click **Next**
+4. Click the **Next** button.
 
 ![Email Entry Placeholder](../assets/images/placeholder-email-entry.svg)
 
 ### Step 4: Enter Password
 
 1. Enter your **network password**.
-2. Click **Sign In**
+2. Click the **Sign In** button.
 
 ### Step 5: Verify Your Identity
 
 1. Choose your preferred verification method.
 2. Complete the verification process.
 3. When prompted, check "Always allow" to open links in the app.
-4. Click **Open**
+4. Click the **Open** button.
 
 ### Step 6: Welcome Screen
 
 1. The Asset Management Welcome page appears (first time only).
-2. Click **Continue**
+2. Click the **Continue** button.
 3. The application splash screen displays.
 
 ### Step 7: Log In to Application
