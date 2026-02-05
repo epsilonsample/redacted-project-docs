@@ -4,7 +4,7 @@ View in-app notifications and messages.
 
 ## Accessing Messages
 
-1. Click **☰** (hamburger) menu icon at the top left.
+1. Click the **☰** (hamburger) menu icon at the top left.
 2. Click **Messages**
 3. View your message list.
 
