@@ -1,7 +1,7 @@
-- **[Profile](profile.md)** — Change roles, update mobile number, set active location
+- **[Profile](../features/profile.md)** — Change roles, update mobile number, set active location
 - **Sign Out** — Log out of the application
 - **Current Version** — View the current application version
-- **[Dark/Light Mode](theme.md)** — Switch between dark and light themes
-- **[Messages](messages.md)** — View in-app notifications
-- **[Language](language.md)** — Change the application language
+- **[Dark/Light Mode](../features/theme.md)** — Switch between dark and light themes
+- **[Messages](../features/messages.md)** — View in-app notifications
+- **[Language](../features/language.md)** — Change the application language
 - **About** — View application and user information
