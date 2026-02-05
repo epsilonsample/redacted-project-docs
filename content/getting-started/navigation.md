@@ -42,20 +42,6 @@ Home > Find Bits > Bit Details
 
 Click any breadcrumb to navigate back.
 
-## Role-Specific Home Pages
-
-Each role has a designated home page:
-
-| Role | Home Page |
-|------|-----------|
-| Inventory Manager | Inventory Management |
-| Field Sales | My Bits |
-| Billing | eBilling Workbench |
-| Rep Manager | Add/Edit Customer Rep |
-| Viewer | Find Bits (Lite) |
-| Account Rep | eBilling Workbench |
-| Finance | eBilling Workbench |
-
 ## Mobile Navigation
 
 On mobile devices:
