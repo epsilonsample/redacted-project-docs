@@ -1,6 +1,6 @@
 # Asset Management
 
-Your central resource for application documentation, procedures, and reference materials.
+Your central resource for application documentation, procedures, and reference material.
 
 ---
 
