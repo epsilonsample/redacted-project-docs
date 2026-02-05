@@ -10,22 +10,20 @@ Fulfill a bit order request by sending the requested bits.
 
 ## Steps
 
-1. Navigate to **Transactions** from the left menu.
-2. Look in the **Bit Orders** section.
-3. Ensure the toggle shows **Pending** orders.
-4. Find the order you want to fulfill.
-5. Click on the order row to open details.
-6. Review the requested bits.
-7. Select the bits to send from your inventory.
-8. Click **Send** or **Fulfill**.
-9. Confirm the transfer
+1. Navigate to the **Transactions** view from the left menu.
+2. Set the toggle to **Pending** orders.
+3. Find the order you want to fulfill.
+4. Click on the order row to open details.
+5. Review the requested bits.
+6. Select the bits to send from your inventory.
+7. Click the **Send** or **Fulfill** button.
 
 ## Partial Fulfillment
 
 If you cannot fulfill the entire order:
 
-1. Select only the bits you have available.
-2. Send those bits
+1. Select only the available bits.
+2. Send the available bits.
 3. The order status updates to **In Progress**.
 4. Remaining items stay pending.
 
