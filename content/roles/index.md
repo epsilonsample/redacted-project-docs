@@ -1,6 +1,6 @@
 # User Roles
 
-Project Documentation uses role-based access to provide each user with the views and capabilities relevant to their job function.
+Asset Management uses role-based access to provide each user with the views and capabilities relevant to their job function.
 
 ## Role Overview
 
