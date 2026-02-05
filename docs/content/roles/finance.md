@@ -55,14 +55,14 @@ Access additional views through the left navigation menu:
    - District and Location
    - Serial number
    - Date range (default: 7 days)
-3. Click **Apply Filters**
-4. Review transaction history
+3. Click the **Apply Filters** button.
+4. Review the transaction history.
 
 ### Printing Reports
 
-1. Click on a ticket line in eBilling Workbench
-2. Select **Print / Share SR Billing PDF** or **Print / Share SR Bit Runs PDF**
-3. Use print preview to print or export
+1. Click on a ticket line in eBilling Workbench.
+2. Select **Print / Share SR Billing PDF** or **Print / Share SR Bit Runs PDF**.
+3. Use print preview to print or export.
 
 ### Exporting Data
 
@@ -84,10 +84,10 @@ Where available, use the **Export to CSV** button to download data for analysis.
 
 As a Finance user, you **cannot**:
 
-- Edit well information
-- Add or modify PDFs/photos
-- Create or modify tickets
-- Perform transfers
+- Edit well information.
+- Add or modify PDFs/photos.
+- Create or modify tickets.
+- Perform transfers.
 
 ## Related Documentation
 
