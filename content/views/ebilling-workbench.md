@@ -65,16 +65,15 @@ The **SALES PERSON FILTER** dropdown lets you filter by a specific sales represe
 
 === "Desktop/iPad"
 
-    1. Click to the left of the funnel icon in a column header.
-    2. Sort arrows appear
-    3. Click the up or down arrow to sort.
-    4. Click again to unsort.
+    1. Click to the left of the funnel icon in a column header to reveal the sort arrows.
+    3. Click the up or down arrow to sort ascending or descending.
+    4. Click the funnel icon again to remove the current sort order.
 
 === "Mobile"
 
     1. Tap **Workbench Sort Order**.
     2. Arrange options in your preferred order.
-    3. Tap **Sort** or **Sort and Save Sort Order**.
+    3. Tap **Sort** or **Sort and Save Sort Order** to apply the sort.
 
 ### Filtering Columns
 
@@ -82,7 +81,7 @@ The **SALES PERSON FILTER** dropdown lets you filter by a specific sales represe
 
     1. Click the funnel icon in a column header.
     2. Check the options you want to filter by.
-    3. Filters remain until cleared.
+    3. Filters remain in place until cleared or the application is restarted.
 
 === "Mobile"
 
