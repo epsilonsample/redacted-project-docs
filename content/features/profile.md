@@ -7,8 +7,8 @@ The Profile page allows you to configure your user preferences, change roles (if
 
 ## Accessing Profile
 
-1. Click the **☰** menu icon at the top left.
-2. Select **Profile**
+1. Click the **☰** (hamburger) menu icon at the top left.
+2. Select the **Profile** option from the dropdown.
 
 ## Profile Options
 
@@ -17,7 +17,7 @@ The Profile page allows you to configure your user preferences, change roles (if
 Add or update your mobile phone number for notifications.
 
 1. Enter your number in the **Mobile Number** field.
-2. Click **OK** to save.
+2. Click the **OK** button to save.
 
 ### Changing Roles { #changing-roles }
 
@@ -25,7 +25,7 @@ If you have access to multiple roles, you can switch between them:
 
 1. Click the **Role** dropdown.
 2. Select your desired role from the list.
-3. Click **OK** to save.
+3. Click the **OK** button to save.
 
 ![Role Selection Placeholder](../assets/images/placeholder-role-dropdown.svg)
 
@@ -48,7 +48,7 @@ Configure your active working location:
 
 ## Steps to Update Profile
 
-1. Navigate to **Profile**
+1. Navigate to the **Profile** view from the left menu.
 2. Make your desired changes:
     - Update mobile number
     - Select a different role.
