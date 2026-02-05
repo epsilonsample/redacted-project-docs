@@ -29,7 +29,7 @@ The table below shows which views each role can access:
 | eBilling Workbench | — | ✅ | ✅ | — | — | ✅ | ✅ |
 | Add/Edit Customer Rep | — | — | ✅ | ✅ | — | — | — |
 
-* Viewer role has access to a "lite" version of Find Bits
+* Viewer role has access to a "lite" version of Find Bits.
 
 ## Common Features
 

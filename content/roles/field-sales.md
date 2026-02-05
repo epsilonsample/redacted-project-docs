@@ -14,17 +14,17 @@ The Field Sales role is designed for sales representatives who work directly wit
 
 As a Field Sales user, you have access to:
 
-- **[My Bits](../views/my-bits.md)** — Your home view showing bits assigned to you
-- **[Find Bits](../views/find-bits.md)** — Advanced search for locating specific bits
-- **[eBilling Workbench](../views/ebilling-workbench.md)** — Create and manage service receipts
-- **[eTransfer Tickets](../views/etransfer-tickets.md)** — Manage electronic transfer tickets
+- **[My Bits](../views/my-bits.md)** — Your home view showing bits assigned to you.
+- **[Find Bits](../views/find-bits.md)** — Advanced search for locating specific bits.
+- **[eBilling Workbench](../views/ebilling-workbench.md)** — Create and manage service receipts.
+- **[eTransfer Tickets](../views/etransfer-tickets.md)** — Manage electronic transfer tickets.
 
 ## Getting Started
 
 ### Logging In
 
-1. Navigate to the login page
-2. Enter your **Username** and **Password**
+1. Navigate to the login page.
+2. Enter your **Username** and **Password**.
 3. Click **Log In**
 
 You will be taken directly to the My Bits view.
@@ -33,8 +33,8 @@ You will be taken directly to the My Bits view.
 
 Access additional views through the left navigation menu:
 
-1. Click the **☰** (three lines) icon at the top left
-2. Select the view you want to access
+1. Click the **☰** (three lines) icon at the top left.
+2. Select the view you want to access.
 
 ## Quick Actions
 
@@ -81,14 +81,14 @@ When using the mobile app, some features work differently:
     On mobile, use the **Sort Order** button instead of column headers:
     
     1. Tap **Sort Order**
-    2. Choose your preferred sort options
-    3. Tap **Sort** or **Sort and Save Sort Order**
+    2. Choose your preferred sort options.
+    3. Tap **Sort** or **Sort and Save Sort Order**.
 
 === "Filtering"
 
     Mobile uses simplified filtering:
     
-    - Only **EBILLING** and **SALES PERSON** filters are available
+    - Only **EBILLING** and **SALES PERSON** filters are available.
     - No column-specific filters
 
 ## Related Documentation

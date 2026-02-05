@@ -14,18 +14,18 @@ The Inventory Manager role is designed for users who manage bit inventory, handl
 
 As an Inventory Manager, you have access to:
 
-- **[Inventory Management](../views/inventory-management.md)** — Your home view for managing bit inventory
-- **[Transactions](../views/transactions.md)** — View and manage bit orders and inventory transactions
-- **[Nav History Transactions](../views/nav-history.md)** — Review historical transaction data
-- **[Find Bits](../views/find-bits.md)** — Advanced search for locating specific bits
-- **[eTransfer Tickets](../views/etransfer-tickets.md)** — Manage electronic transfer tickets
+- **[Inventory Management](../views/inventory-management.md)** — Your home view for managing bit inventory.
+- **[Transactions](../views/transactions.md)** — View and manage bit orders and inventory transactions.
+- **[Nav History Transactions](../views/nav-history.md)** — Review historical transaction data.
+- **[Find Bits](../views/find-bits.md)** — Advanced search for locating specific bits.
+- **[eTransfer Tickets](../views/etransfer-tickets.md)** — Manage electronic transfer tickets.
 
 ## Getting Started
 
 ### Logging In
 
-1. Navigate to the login page
-2. Enter your **Username** and **Password**
+1. Navigate to the login page.
+2. Enter your **Username** and **Password**.
 3. Click **Log In**
 
 You will be taken directly to the Inventory Management view.
@@ -37,8 +37,8 @@ You will be taken directly to the Inventory Management view.
 
 Access additional views through the left navigation menu:
 
-1. Click the **☰** (three lines) icon at the top left
-2. Select the view you want to access
+1. Click the **☰** (three lines) icon at the top left.
+2. Select the view you want to access.
 
 ![Navigation Menu Placeholder](../assets/images/placeholder-nav-menu.svg)
 
@@ -63,9 +63,9 @@ Access additional views through the left navigation menu:
 When bits are sent to your location:
 
 1. Go to **eTransfer Tickets** view
-2. Check the **Received eTransfers** section
+2. Check the **Received eTransfers** section.
 3. Review pending transfers
-4. Accept or reject as appropriate
+4. Accept or reject as appropriate.
 
 [Learn more about accepting transfers :material-arrow-right:](../how-to/accept-transfer.md){ .md-button }
 

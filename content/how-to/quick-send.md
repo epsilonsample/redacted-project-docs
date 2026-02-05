@@ -4,19 +4,19 @@ Use this method to rapidly transfer a bit without navigating through multiple sc
 
 ## Prerequisites
 
-- Access to Find Bits or My Bits view
-- The bit is in your inventory
-- The bit is not locked
+- Access to Find Bits or My Bits view.
+- The bit is in your inventory.
+- The bit is not locked.
 
 ## Steps
 
-1. Navigate to **Find Bits** or **My Bits**
-2. Locate the bit you want to send
-3. Click on the bit row to open Bit Details
-4. Click **Quick Send** (or **Send**)
-5. Select the recipient from the dropdown
+1. Navigate to **Find Bits** or **My Bits**.
+2. Locate the bit you want to send.
+3. Click on the bit row to open Bit Details.
+4. Click **Quick Send** (or **Send**).
+5. Select the recipient from the dropdown.
 6. Confirm the transfer
-7. The bit is sent immediately
+7. The bit is sent immediately.
 
 ## Recipient Options
 
@@ -30,9 +30,9 @@ You can send bits to:
 
 After sending:
 
-- The transfer appears in your **Initiated eTransfers**
-- The recipient sees it in their **Received eTransfers**
-- Status shows as Pending until accepted
+- The transfer appears in your **Initiated eTransfers**.
+- The recipient sees it in their **Received eTransfers**.
+- Status shows as Pending until accepted.
 
 ## Related Documentation
 

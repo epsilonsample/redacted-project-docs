@@ -23,42 +23,42 @@ When contacting support, have ready:
 - Application version (found in **About**)
 - Description of the issue
 - Steps to reproduce the problem
-- Any error messages (screenshots helpful)
+- Any error messages (screenshots helpful).
 
 ## Finding Your Version
 
-1. Open the navigation menu (click **☰**)
-2. Look at **Current Version**
-3. Or click **About** for detailed information
+1. Open the navigation menu (click **☰**).
+2. Look at **Current Version**.
+3. Or click **About** for detailed information.
 
 ## Common Issues
 
 ### Login Problems
 
-- Verify your network credentials
-- Check Caps Lock is off
+- Verify your network credentials.
+- Check Caps Lock is off.
 - Try resetting your password
-- Contact HelpDesk if account is locked
+- Contact HelpDesk if account is locked.
 
 ### Application Not Loading
 
-- Check your internet connection
-- Try closing and reopening the app
+- Check your internet connection.
+- Try closing and reopening the app.
 - Restart your device
 - Reinstall if necessary
 
 ### Data Not Displaying
 
-- Check your filter settings
-- Click **Clear filter-sort** to reset
-- Verify your profile settings (District, Location)
+- Check your filter settings.
+- Click **Clear filter-sort** to reset.
+- Verify your profile settings (District, Location).
 - Refresh the page
 
 ### Sync Issues
 
-- Wait a few moments and refresh
-- Check your internet connection
-- Contact HelpDesk if data remains out of sync
+- Wait a few moments and refresh.
+- Check your internet connection.
+- Contact HelpDesk if data remains out of sync.
 
 ## Feedback
 

@@ -6,16 +6,16 @@ Add additional bits to a delivery ticket that's already been created.
 
 - Field Sales role
 - Access to My Bits view
-- An existing delivery ticket
+- An existing delivery ticket.
 - Additional bit in your inventory
 
 ## Steps
 
-1. Navigate to **My Bits**
-2. Find the bit you want to add
-3. Click on the bit row to open Bit Details
-4. Click **Add to Existing Ticket**
-5. Select the ticket from the dropdown list
+1. Navigate to **My Bits**.
+2. Find the bit you want to add.
+3. Click on the bit row to open Bit Details.
+4. Click **Add to Existing Ticket**.
+5. Select the ticket from the dropdown list.
 6. Confirm the selection
 7. Click **Submit**
 
@@ -25,13 +25,13 @@ The ticket dropdown shows:
 
 - Active tickets you've created
 - Tickets for the same customer
-- Ticket number and customer name for identification
+- Ticket number and customer name for identification.
 
 ## After Adding
 
-- The bit appears on the selected ticket
-- The ticket updates with the new bit information
-- Both bits are tracked together for billing
+- The bit appears on the selected ticket.
+- The ticket updates with the new bit information.
+- Both bits are tracked together for billing.
 
 ## When to Add vs. Create New
 
@@ -39,7 +39,7 @@ The ticket dropdown shows:
 
 - Same customer and job
 - Same delivery timeframe
-- Bits are related to the same work
+- Bits are related to the same work.
 
 **Create a new ticket when:**
 

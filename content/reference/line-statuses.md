@@ -16,10 +16,10 @@ Reference guide for all possible ticket line statuses in the eBilling Workbench.
 
 Ticket lines progress through these stages:
 
-1. **Open** → Ready to Review (all information entered)
-2. **Ready to Review** → Approved (reviewed and confirmed)
-3. **Approved** → Locked (locked for invoicing)
-4. **Locked** → Invoiced (invoice generated)
+1. **Open** → Ready to Review (all information entered).
+2. **Ready to Review** → Approved (reviewed and confirmed).
+3. **Approved** → Locked (locked for invoicing).
+4. **Locked** → Invoiced (invoice generated).
 
 ## Related Documentation
 

@@ -14,8 +14,8 @@ The Account Rep role provides view-only access to billing information for assign
 
 As an Account Rep, you have access to:
 
-- **[eBilling Workbench](../views/ebilling-workbench.md)** — Your home view for viewing billing data
-- **[Find Bits](../views/find-bits.md)** — Search for bit information
+- **[eBilling Workbench](../views/ebilling-workbench.md)** — Your home view for viewing billing data.
+- **[Find Bits](../views/find-bits.md)** — Search for bit information.
 
 !!! info "View-Only Access"
     The Account Rep role has read-only access. You can view billing information but cannot modify records.
@@ -24,8 +24,8 @@ As an Account Rep, you have access to:
 
 ### Logging In
 
-1. Navigate to the login page
-2. Enter your **Username** and **Password**
+1. Navigate to the login page.
+2. Enter your **Username** and **Password**.
 3. Click **Log In**
 
 You will be taken directly to the eBilling Workbench view.
@@ -34,16 +34,16 @@ You will be taken directly to the eBilling Workbench view.
 
 Access additional views through the left navigation menu:
 
-1. Click the **☰** (three lines) icon at the top left
-2. Select the view you want to access
+1. Click the **☰** (three lines) icon at the top left.
+2. Select the view you want to access.
 
 ## Common Tasks
 
 ### Viewing Billing Information
 
-1. Use the **EBILLING FILTER** to find ticket lines
-2. Use the **SALES PERSON FILTER** to filter by rep
-3. Click any ticket line to view details
+1. Use the **EBILLING FILTER** to find ticket lines.
+2. Use the **SALES PERSON FILTER** to filter by rep.
+3. Click any ticket line to view details.
 
 ### Available Actions
 
@@ -57,18 +57,18 @@ Access additional views through the left navigation menu:
 
 ### Printing Reports
 
-1. Click on a ticket line
-2. Select **Print / Share SR Billing PDF** or **Print / Share SR Bit Runs PDF**
-3. Use the print preview to print or share
+1. Click on a ticket line.
+2. Select **Print / Share SR Billing PDF** or **Print / Share SR Bit Runs PDF**.
+3. Use the print preview to print or share.
 
 ## Limitations
 
 As an Account Rep, you **cannot**:
 
 - Edit well information
-- Add or modify PDFs/photos
+- Add or modify PDFs/photos.
 - Update account assignments
-- Create or modify tickets
+- Create or modify tickets.
 
 ## Related Documentation
 

@@ -5,7 +5,7 @@ New to Asset Management? This section covers everything you need to get up and r
 ## First Steps
 
 1. **Install the app** — Set up Asset Management on your [desktop](../installation/desktop.md) or [mobile device](../installation/mobile.md)
-2. **Log in** — [Sign in](login.md) with your network credentials
+2. **Log in** — [Sign in](login.md) with your network credentials.
 3. **Set up your profile** — Configure your district, location, and stockpoint in [Profile Settings](../features/profile.md)
 4. **Learn the interface** — Familiarize yourself with [navigation](navigation.md)
 
@@ -29,5 +29,5 @@ Not sure where to start? Find your role below and follow the link for a guide ta
 
 ## Need Help?
 
-- [Support](../reference/support.md) — How to get assistance
-- [Glossary](../reference/glossary.md) — Definitions of terms used in the app
+- [Support](../reference/support.md) — How to get assistance.
+- [Glossary](../reference/glossary.md) — Definitions of terms used in the app.

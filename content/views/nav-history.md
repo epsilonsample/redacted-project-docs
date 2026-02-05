@@ -31,10 +31,10 @@ Use this view to research the history of bit movements and transactions over tim
 
 ### Step 1: Set Filters
 
-1. Select your **District** (optional)
-2. Select your **Location** (optional)
-3. Enter a **Serial** number (optional)
-4. Set **Look Back Days** or specific date range
+1. Select your **District** (optional).
+2. Select your **Location** (optional).
+3. Enter a **Serial** number (optional).
+4. Set **Look Back Days** or specific date range.
 
 ### Step 2: Apply Filters
 
@@ -52,8 +52,8 @@ Use the search box to find specific records in the results.
 
 ### Sorting and Filtering
 
-- Click column headers to sort
-- Click funnel icons to filter columns
+- Click column headers to sort.
+- Click funnel icons to filter columns.
 
 ### Clearing
 
@@ -64,7 +64,7 @@ Click **Clear filter-sort** to reset table sorting and filtering.
 
 ## Common Uses
 
-- Track where a specific bit has been
+- Track where a specific bit has been.
 - Research transaction history
 - Audit inventory movements
 - Investigate discrepancies

@@ -22,7 +22,7 @@ Click on any bit row in these views to open Bit Details:
 
 ### Location History
 
-- Where the bit has been
+- Where the bit has been.
 - Transfer dates
 - Previous holders
 
@@ -30,12 +30,12 @@ Click on any bit row in these views to open Bit Details:
 
 Depending on your role, you may see:
 
-- **Send** — Transfer the bit to another user
-- **Quick Send** — Rapid transfer
-- **Lock/Unlock** — Prevent or allow transfers
-- **Consign** — Place with a customer
-- **Create Delivery Ticket** — Document a delivery
-- **Add to Existing Ticket** — Add to an open ticket
+- **Send** — Transfer the bit to another user.
+- **Quick Send** — Rapid transfer.
+- **Lock/Unlock** — Prevent or allow transfers.
+- **Consign** — Place with a customer.
+- **Create Delivery Ticket** — Document a delivery.
+- **Add to Existing Ticket** — Add to an open ticket.
 
 ## Related Documentation
 

@@ -9,8 +9,8 @@ The eBilling Workbench is the central hub for managing service receipts, deliver
     This view is available to: Field Sales, Billing, Account Rep, Finance
 
 !!! note "Access Levels"
-    - **Field Sales & Billing** — Full edit access
-    - **Account Rep & Finance** — View-only access
+    - **Field Sales & Billing** — Full edit access.
+    - **Account Rep & Finance** — View-only access.
 
 ## Overview
 
@@ -52,9 +52,9 @@ The **SALES PERSON FILTER** dropdown lets you filter by a specific sales represe
 
 ### Saving Filters
 
-1. Set your preferred **EBILLING** and **SALES PERSON** filters
-2. Click **Save filter** to remember these settings
-3. Click **Clear filter** to reset to defaults
+1. Set your preferred **EBILLING** and **SALES PERSON** filters.
+2. Click **Save filter** to remember these settings.
+3. Click **Clear filter** to reset to defaults.
 
 !!! warning "Troubleshooting"
     If the eBilling Workbench appears empty, try clearing your saved filters. Saved filters may exclude all current results.
@@ -65,24 +65,24 @@ The **SALES PERSON FILTER** dropdown lets you filter by a specific sales represe
 
 === "Desktop/iPad"
 
-    1. Click to the left of the funnel icon in a column header
+    1. Click to the left of the funnel icon in a column header.
     2. Sort arrows appear
-    3. Click the up or down arrow to sort
-    4. Click again to unsort
+    3. Click the up or down arrow to sort.
+    4. Click again to unsort.
 
 === "Mobile"
 
-    1. Tap **Workbench Sort Order**
-    2. Arrange options in your preferred order
-    3. Tap **Sort** or **Sort and Save Sort Order**
+    1. Tap **Workbench Sort Order**.
+    2. Arrange options in your preferred order.
+    3. Tap **Sort** or **Sort and Save Sort Order**.
 
 ### Filtering Columns
 
 === "Desktop/iPad"
 
-    1. Click the funnel icon in a column header
-    2. Check the options you want to filter by
-    3. Filters remain until cleared
+    1. Click the funnel icon in a column header.
+    2. Check the options you want to filter by.
+    3. Filters remain until cleared.
 
 === "Mobile"
 
@@ -118,9 +118,9 @@ Click any ticket line to open the **Line Action Menu**.
 
 From the line action menu:
 
-1. Click **Print / Share SR Billing PDF** for billing documentation
-2. Click **Print / Share SR Bit Runs PDF** for bit run reports
-3. The print preview opens for printing or sharing
+1. Click **Print / Share SR Billing PDF** for billing documentation.
+2. Click **Print / Share SR Bit Runs PDF** for bit run reports.
+3. The print preview opens for printing or sharing.
 
 ## Locked Serials
 

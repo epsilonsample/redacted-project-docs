@@ -33,10 +33,10 @@ Most views share these common features:
 
 All data tables support:
 
-- **Global search** — Search across all columns
-- **Column sorting** — Click headers to sort
-- **Column filtering** — Click funnel icons to filter
-- **Clear filter-sort** — Reset table display options
+- **Global search** — Search across all columns.
+- **Column sorting** — Click headers to sort.
+- **Column filtering** — Click funnel icons to filter.
+- **Clear filter-sort** — Reset table display options.
 
 For detailed information on searching and filtering, see [Searching and Filtering Data](../features/search-filter.md).
 
@@ -44,9 +44,9 @@ For detailed information on searching and filtering, see [Searching and Filterin
 
 Click any row in a data table to:
 
-- View details for that item
+- View details for that item.
 - Access the action menu
-- Navigate to related screens
+- Navigate to related screens.
 
 ## Platform Differences
 

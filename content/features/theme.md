@@ -4,11 +4,11 @@ Switch between dark and light display themes for comfortable viewing.
 
 ## Changing the Theme
 
-1. Open the navigation menu (click **☰**)
+1. Open the navigation menu (click **☰**).
 2. Find **Dark/Light** option
 3. Select your preference:
-   - **Dark** — Dark background with light text
-   - **Light** — Light background with dark text
+   - **Dark** — Dark background with light text.
+   - **Light** — Light background with dark text.
 
 ## Dark Mode
 
@@ -16,7 +16,7 @@ Switch between dark and light display themes for comfortable viewing.
 
 Dark mode features:
 - Dark background colors
-- Reduced eye strain in low-light environments
+- Reduced eye strain in low-light environments.
 - Lower screen brightness
 
 ## Light Mode
@@ -39,9 +39,9 @@ Light mode features:
 
 ## Notes
 
-- Your preference is saved automatically
-- The setting persists across sessions
-- All views respect your theme choice
+- Your preference is saved automatically.
+- The setting persists across sessions.
+- All views respect your theme choice.
 
 ## Related Documentation
 

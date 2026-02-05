@@ -9,12 +9,12 @@ Request bits from inventory to be sent to you.
 
 ## Steps
 
-1. Navigate to **My Bits**
-2. Click the **Bit Order** button at the top
+1. Navigate to **My Bits**.
+2. Click the **Bit Order** button at the top.
 3. Fill in the order details:
-   - Select the bit type needed
+   - Select the bit type needed.
    - Specify quantity
-   - Add any notes or requirements
+   - Add any notes or requirements.
 4. Review your order
 5. Click **Submit**
 
@@ -29,17 +29,17 @@ When placing an order, specify:
 
 ## After Submitting
 
-- Your order appears in the Inventory Manager's **Transactions** view
-- Status shows as **Pending**
-- You'll be notified when bits are sent
-- Accept the transfer when bits arrive
+- Your order appears in the Inventory Manager's **Transactions** view.
+- Status shows as **Pending**.
+- You'll be notified when bits are sent.
+- Accept the transfer when bits arrive.
 
 ## Tracking Your Order
 
 To check order status:
 
 1. Contact your Inventory Manager, or
-2. Wait for transfer notification
+2. Wait for transfer notification.
 
 ## Related Documentation
 

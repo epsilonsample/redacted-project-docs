@@ -10,7 +10,7 @@ Access the navigation menu by clicking the **☰** (hamburger) icon at the top l
 
 The menu contains:
 
-- **Views** — Screens available to your role
+- **Views** — Screens available to your role.
 - **Features** — Common features like Profile, Messages, etc.
 
 ## Navigation Elements
@@ -27,9 +27,9 @@ The menu contains:
 
 Most views have quick action buttons at the top:
 
-- **Home** — Return to your home view
-- **Find Bits** — Search for bits
-- **Transactions** — View transactions (if available)
+- **Home** — Return to your home view.
+- **Find Bits** — Search for bits.
+- **Transactions** — View transactions (if available).
 - View-specific actions
 
 ### Breadcrumbs
@@ -46,9 +46,9 @@ Click any breadcrumb to navigate back.
 
 On mobile devices:
 
-- Tap **☰** to open the navigation drawer
-- Swipe right from the left edge to open the menu
-- Tap outside the menu to close it
+- Tap **☰** to open the navigation drawer.
+- Swipe right from the left edge to open the menu.
+- Tap outside the menu to close it.
 
 ## Related Documentation
 

@@ -14,8 +14,8 @@ The eTransfer Tickets view manages electronic transfer tickets for sending and r
 
 The view is divided into two sections:
 
-- **Initiated eTransfers** — Transfers you have sent
-- **Received eTransfers** — Transfers sent to you
+- **Initiated eTransfers** — Transfers you have sent.
+- **Received eTransfers** — Transfers sent to you.
 
 ## Filtering Options
 
@@ -30,8 +30,8 @@ Filter both sections by:
 
 Toggle between:
 
-- **Pending** — Transfers awaiting action
-- **Sent / Received** — Completed transfers
+- **Pending** — Transfers awaiting action.
+- **Sent / Received** — Completed transfers.
 
 ## Initiated eTransfers
 
@@ -39,9 +39,9 @@ This section shows transfers you have initiated (sent to others).
 
 ### Viewing Initiated Transfers
 
-1. Set date range if needed
-2. Toggle between Pending and Sent
-3. Review transfer details in the table
+1. Set date range if needed.
+2. Toggle between Pending and Sent.
+3. Review transfer details in the table.
 
 ## Received eTransfers
 
@@ -49,17 +49,17 @@ This section shows transfers sent to you by others.
 
 ### Viewing Received Transfers
 
-1. Set date range if needed
-2. Toggle between Pending and Received
+1. Set date range if needed.
+2. Toggle between Pending and Received.
 3. Review incoming transfers
 
 ### Accepting Transfers
 
 When you receive a transfer:
 
-1. Review the transfer details
-2. Accept or reject as appropriate
-3. Accepted bits appear in your inventory
+1. Review the transfer details.
+2. Accept or reject as appropriate.
+3. Accepted bits appear in your inventory.
 
 ## Table Features
 
@@ -69,8 +69,8 @@ Use the search box above each table to search across all columns.
 
 ### Sorting and Filtering
 
-- Click column headers to sort
-- Click funnel icons to filter by specific values
+- Click column headers to sort.
+- Click funnel icons to filter by specific values.
 
 ### Clearing Filters
 

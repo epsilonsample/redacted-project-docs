@@ -26,16 +26,16 @@ This is your home page. You'll land here after logging in.
 
 ### Adding a New Customer Rep
 
-1. Navigate to Add/Edit Customer Rep
-2. Fill in the required information
-3. Save the new record
+1. Navigate to Add/Edit Customer Rep.
+2. Fill in the required information.
+3. Save the new record.
 
 ### Editing an Existing Customer Rep
 
-1. Search for the customer rep
-2. Select the record to edit
+1. Search for the customer rep.
+2. Select the record to edit.
 3. Make your changes
-4. Save the updated record
+4. Save the updated record.
 
 ### Searching Customer Reps
 

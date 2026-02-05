@@ -61,11 +61,11 @@ Billed → Reviewed/Approved → Approved & Locked → Invoiced
 
 ## Key Takeaways
 
-1. **Field Sales** loses editing capabilities after the Billed status
-2. **Billing** maintains edit access through Reviewed/Approved status
-3. **Account Rep & Finance** have view-only access at all statuses
-4. **PDF/Photo viewing** is only available when content exists
-5. All roles can always view Service Receipt Lines and print PDFs
+1. **Field Sales** loses editing capabilities after the Billed status.
+2. **Billing** maintains edit access through Reviewed/Approved status.
+3. **Account Rep & Finance** have view-only access at all statuses.
+4. **PDF/Photo viewing** is only available when content exists.
+5. All roles can always view Service Receipt Lines and print PDFs.
 
 ## Related Documentation
 

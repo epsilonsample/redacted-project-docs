@@ -14,16 +14,16 @@ The Billing role is designed for users who process service receipts, manage invo
 
 As a Billing user, you have access to:
 
-- **[eBilling Workbench](../views/ebilling-workbench.md)** — Your home view for billing operations
-- **[Find Bits](../views/find-bits.md)** — Advanced search for locating specific bits
-- **[Add/Edit Customer Rep](../views/add-edit-customer-rep.md)** — Manage customer representative records
+- **[eBilling Workbench](../views/ebilling-workbench.md)** — Your home view for billing operations.
+- **[Find Bits](../views/find-bits.md)** — Advanced search for locating specific bits.
+- **[Add/Edit Customer Rep](../views/add-edit-customer-rep.md)** — Manage customer representative records.
 
 ## Getting Started
 
 ### Logging In
 
-1. Navigate to the login page
-2. Enter your **Username** and **Password**
+1. Navigate to the login page.
+2. Enter your **Username** and **Password**.
 3. Click **Log In**
 
 You will be taken directly to the eBilling Workbench view.
@@ -32,8 +32,8 @@ You will be taken directly to the eBilling Workbench view.
 
 Access additional views through the left navigation menu:
 
-1. Click the **☰** (three lines) icon at the top left
-2. Select the view you want to access
+1. Click the **☰** (three lines) icon at the top left.
+2. Select the view you want to access.
 
 ## Common Tasks
 
@@ -60,12 +60,12 @@ Access additional views through the left navigation menu:
 
 Use these filters to find specific ticket lines:
 
-- **Active Tickets** — Current active tickets
-- **Show History** — Invoiced tickets
-- **Approved and Locked** — Locked tickets
-- **Created/Updated Date Range** — Filter by date
-- **Serial Number** — Search by serial
-- **Ready to Review** — Tickets pending review
+- **Active Tickets** — Current active tickets.
+- **Show History** — Invoiced tickets.
+- **Approved and Locked** — Locked tickets.
+- **Created/Updated Date Range** — Filter by date.
+- **Serial Number** — Search by serial.
+- **Ready to Review** — Tickets pending review.
 
 ## Related Documentation
 

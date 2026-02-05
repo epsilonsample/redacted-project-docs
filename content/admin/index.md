@@ -18,23 +18,23 @@ When you log in with the IT Support role, your home page is **ADMIN: Add/Edit Us
 
 ### Available Functions
 
-- Add new users to the system
-- Edit existing user information
-- Manage user permissions by district
-- Manage user permissions by individual user
+- Add new users to the system.
+- Edit existing user information.
+- Manage user permissions by district.
+- Manage user permissions by individual user.
 
 ### Navigation
 
 Access the Permissions view:
 
-1. Click **Permissions View** button on the home page, or
-2. Select **ADMIN: Permissions** from the left menu
+1. Click **Permissions View** button on the home page, or.
+2. Select **ADMIN: Permissions** from the left menu.
 
 ## Quick Links
 
-- [User Management](user-management.md) — Add and edit users
-- [Permissions Management](permissions.md) — Configure access rights
-- [Permissions Matrix](permissions-matrix.md) — Reference for role capabilities
+- [User Management](user-management.md) — Add and edit users.
+- [Permissions Management](permissions.md) — Configure access rights.
+- [Permissions Matrix](permissions-matrix.md) — Reference for role capabilities.
 
 ## Common Admin Tasks
 

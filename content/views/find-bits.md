@@ -11,10 +11,10 @@ The Find Bits view provides advanced search capabilities for locating specific b
 
 Use Find Bits when you need to:
 
-- Locate a specific bit by serial number
-- Search inventory across multiple locations
-- Filter by product specifications
-- Find bits with specific statuses
+- Locate a specific bit by serial number.
+- Search inventory across multiple locations.
+- Filter by product specifications.
+- Find bits with specific statuses.
 
 ## Search Filters
 
@@ -55,19 +55,19 @@ Use Find Bits when you need to:
 
 ### Basic Search
 
-1. Navigate to **Find Bits** from the left menu (or click **Find Bits** button if available)
-2. Set your filters (at minimum, set **Bit Status** and **Company**)
+1. Navigate to **Find Bits** from the left menu (or click **Find Bits** button if available).
+2. Set your filters (at minimum, set **Bit Status** and **Company**).
 3. Click **Search**
-4. Results display in the table below
+4. Results display in the table below.
 
 ### Viewing Results
 
 The results table supports:
 
-- **Global search** — Search any field in the results
-- **Column sorting** — Click column headers to sort
-- **Column filtering** — Click the funnel icon to filter by specific values
-- **Clear filter-sort** — Reset all table filters and sorting
+- **Global search** — Search any field in the results.
+- **Column sorting** — Click column headers to sort.
+- **Column filtering** — Click the funnel icon to filter by specific values.
+- **Clear filter-sort** — Reset all table filters and sorting.
 
 !!! note "Filter Scope"
     The **Clear filter-sort** button only clears table filters, not the main search filters above.

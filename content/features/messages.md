@@ -4,9 +4,9 @@ View in-app notifications and messages.
 
 ## Accessing Messages
 
-1. Open the navigation menu (click **☰**)
+1. Open the navigation menu (click **☰**).
 2. Click **Messages**
-3. View your message list
+3. View your message list.
 
 ## Message Types
 
@@ -19,9 +19,9 @@ Messages may include:
 
 ## Reading Messages
 
-1. Click on a message to view details
-2. New/unread messages are highlighted
-3. Messages are marked as read after viewing
+1. Click on a message to view details.
+2. New/unread messages are highlighted.
+3. Messages are marked as read after viewing.
 
 ## Message Indicators
 

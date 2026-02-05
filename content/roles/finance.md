@@ -14,9 +14,9 @@ The Finance role provides view-only access to billing and financial data for rep
 
 As a Finance user, you have access to:
 
-- **[eBilling Workbench](../views/ebilling-workbench.md)** — Your home view for billing data
-- **[Find Bits](../views/find-bits.md)** — Search for bit information
-- **[Nav History Transactions](../views/nav-history.md)** — View historical transaction data
+- **[eBilling Workbench](../views/ebilling-workbench.md)** — Your home view for billing data.
+- **[Find Bits](../views/find-bits.md)** — Search for bit information.
+- **[Nav History Transactions](../views/nav-history.md)** — View historical transaction data.
 
 !!! info "View-Only Access"
     The Finance role has read-only access. You can view and export data but cannot modify records.
@@ -25,8 +25,8 @@ As a Finance user, you have access to:
 
 ### Logging In
 
-1. Navigate to the login page
-2. Enter your **Username** and **Password**
+1. Navigate to the login page.
+2. Enter your **Username** and **Password**.
 3. Click **Log In**
 
 You will be taken directly to the eBilling Workbench view.
@@ -35,8 +35,8 @@ You will be taken directly to the eBilling Workbench view.
 
 Access additional views through the left navigation menu:
 
-1. Click the **☰** (three lines) icon at the top left
-2. Select the view you want to access
+1. Click the **☰** (three lines) icon at the top left.
+2. Select the view you want to access.
 
 ## Common Tasks
 
@@ -45,8 +45,8 @@ Access additional views through the left navigation menu:
 1. Go to **eBilling Workbench**
 2. Use filters to find specific ticket lines:
    - **EBILLING FILTER** — Filter by status, date range, etc.
-   - **SALES PERSON FILTER** — Filter by sales representative
-3. Review ticket line details
+   - **SALES PERSON FILTER** — Filter by sales representative.
+3. Review ticket line details.
 
 ### Viewing Historical Transactions
 
@@ -60,9 +60,9 @@ Access additional views through the left navigation menu:
 
 ### Printing Reports
 
-1. Click on a ticket line in eBilling Workbench
-2. Select **Print / Share SR Billing PDF** or **Print / Share SR Bit Runs PDF**
-3. Use print preview to print or export
+1. Click on a ticket line in eBilling Workbench.
+2. Select **Print / Share SR Billing PDF** or **Print / Share SR Bit Runs PDF**.
+3. Use print preview to print or export.
 
 ### Exporting Data
 
@@ -85,8 +85,8 @@ Where available, use the **Export to CSV** button to download data for analysis.
 As a Finance user, you **cannot**:
 
 - Edit well information
-- Add or modify PDFs/photos
-- Create or modify tickets
+- Add or modify PDFs/photos.
+- Create or modify tickets.
 - Perform transfers
 
 ## Related Documentation

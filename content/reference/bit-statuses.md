@@ -19,13 +19,13 @@ Reference guide for all possible bit statuses in Asset Management.
 
 Bits move through statuses as they are used:
 
-1. **Available** → In Use (delivered to customer)
-2. **In Use** → Returned (picked up from customer)
-3. **In Use** → DBR (damaged beyond repair)
-4. **In Use** → LIH (lost in hole)
-5. **Available** → Locked (locked by Inventory Manager)
-6. **Locked** → Available (unlocked)
-7. **Available** → In Transit (transferred to another user)
+1. **Available** → In Use (delivered to customer).
+2. **In Use** → Returned (picked up from customer).
+3. **In Use** → DBR (damaged beyond repair).
+4. **In Use** → LIH (lost in hole).
+5. **Available** → Locked (locked by Inventory Manager).
+6. **Locked** → Available (unlocked).
+7. **Available** → In Transit (transferred to another user).
 
 ## Related Documentation
 

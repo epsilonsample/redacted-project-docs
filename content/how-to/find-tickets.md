@@ -5,55 +5,55 @@ Locate specific tickets in the eBilling Workbench.
 ## Prerequisites
 
 - Access to eBilling Workbench
-- Field Sales, Billing, Account Rep, or Finance role
+- Field Sales, Billing, Account Rep, or Finance role.
 
 ## Using eBilling Filters
 
-1. Navigate to **eBilling Workbench**
-2. Click the **EBILLING FILTER** dropdown
+1. Navigate to **eBilling Workbench**.
+2. Click the **EBILLING FILTER** dropdown.
 3. Select a filter option:
-   - **Active Tickets** — Current active tickets
-   - **My Tickets** — Tickets assigned to you
-   - **Show History** — Invoiced tickets
-   - **Approved and Locked** — Locked tickets
-   - **Created Date Range** — Filter by creation date
-   - **Updated Date Range** — Filter by update date
-   - **Serial Number** — Search by specific serial
-   - **Ready to Review** — Tickets pending review
+   - **Active Tickets** — Current active tickets.
+   - **My Tickets** — Tickets assigned to you.
+   - **Show History** — Invoiced tickets.
+   - **Approved and Locked** — Locked tickets.
+   - **Created Date Range** — Filter by creation date.
+   - **Updated Date Range** — Filter by update date.
+   - **Serial Number** — Search by specific serial.
+   - **Ready to Review** — Tickets pending review.
 
 ## Searching by Serial Number
 
-1. Select **Serial Number** from EBILLING FILTER
-2. Enter the serial number in the search box
-3. The matching ticket displays
+1. Select **Serial Number** from EBILLING FILTER.
+2. Enter the serial number in the search box.
+3. The matching ticket displays.
 
 ## Filtering by Sales Person
 
-1. Click the **SALES PERSON FILTER** dropdown
-2. Select a specific sales representative
-3. Only their tickets display
+1. Click the **SALES PERSON FILTER** dropdown.
+2. Select a specific sales representative.
+3. Only their tickets display.
 
 ## Using Table Search
 
-1. Use the global search box above the table
-2. Type any value (serial, customer, etc.)
-3. Results filter as you type
+1. Use the global search box above the table.
+2. Type any value (serial, customer, etc.).
+3. Results filter as you type.
 
 ## Saving Your Filters
 
 If you use certain filters frequently:
 
-1. Set your preferred filters
+1. Set your preferred filters.
 2. Click **Save filter**
-3. Filters apply automatically next time
+3. Filters apply automatically next time.
 
 ## Clearing Filters
 
 If you're not seeing expected results:
 
-1. Click **Clear filter** to reset eBilling and Sales Person filters
-2. Click **Clear filter-sort** to reset table sorting and column filters
-3. Start your search again with fresh filters
+1. Click **Clear filter** to reset eBilling and Sales Person filters.
+2. Click **Clear filter-sort** to reset table sorting and column filters.
+3. Start your search again with fresh filters.
 
 ## Related Documentation
 

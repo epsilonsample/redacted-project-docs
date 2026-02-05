@@ -15,7 +15,7 @@ The ADMIN: Add/Edit Users view is the home page for IT Support users.
 
 ### Step 1: Access User Management
 
-1. Log in with IT Support role
+1. Log in with IT Support role.
 2. You'll land on ADMIN: Add/Edit Users
 
 ### Step 2: Enter User Information
@@ -35,12 +35,12 @@ Save the new user record.
 
 ### Finding a User
 
-1. Use the search function to locate the user
-2. Select the user record
+1. Use the search function to locate the user.
+2. Select the user record.
 
 ### Making Changes
 
-1. Update the necessary fields
+1. Update the necessary fields.
 2. Save your changes
 
 ## Navigation
@@ -48,7 +48,7 @@ Save the new user record.
 From this view, you can:
 
 - Click **Permissions View** button to go to ADMIN: Permissions
-- Use the left menu to access other admin functions
+- Use the left menu to access other admin functions.
 
 ## Related Documentation
 

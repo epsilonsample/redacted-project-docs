@@ -14,14 +14,14 @@ The Rep Manager role is designed for users who manage customer representative re
 
 As a Rep Manager, you have access to:
 
-- **[Add/Edit Customer Rep](../views/add-edit-customer-rep.md)** — Your home view for managing customer reps
+- **[Add/Edit Customer Rep](../views/add-edit-customer-rep.md)** — Your home view for managing customer reps.
 
 ## Getting Started
 
 ### Logging In
 
-1. Navigate to the login page
-2. Enter your **Username** and **Password**
+1. Navigate to the login page.
+2. Enter your **Username** and **Password**.
 3. Click **Log In**
 
 You will be taken directly to the Add/Edit Customer Rep view.
@@ -30,7 +30,7 @@ You will be taken directly to the Add/Edit Customer Rep view.
 
 Access the navigation menu:
 
-1. Click the **☰** (three lines) icon at the top left
+1. Click the **☰** (three lines) icon at the top left.
 2. Select available options
 
 ## Common Tasks

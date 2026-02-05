@@ -14,8 +14,8 @@ The Transactions view displays bit orders and inventory transactions.
 
 The Transactions view is divided into two sections:
 
-- **Bit Orders** — Incoming requests for bits
-- **Inventory Transactions** — Record of inventory movements
+- **Bit Orders** — Incoming requests for bits.
+- **Inventory Transactions** — Record of inventory movements.
 
 ## Bit Orders Section
 
@@ -47,8 +47,8 @@ Use the search box above either table to search across all columns.
 
 ### Sorting and Filtering
 
-1. Click column headers to sort
-2. Click funnel icons to filter by specific values
+1. Click column headers to sort.
+2. Click funnel icons to filter by specific values.
 
 ### Clearing Filters
 

@@ -1,0 +1,57 @@
+
+============================================================
+  Fix Missing Periods on List Items — DRY RUN
+============================================================
+  Scanning 61 Markdown files in 'content/'
+============================================================
+
+  📄 content/admin/index.md — 1 fix
+     Line 22:
+       - - Edit existing user information
+       + - Edit existing user information.
+
+  📄 content/features/messages.md — 1 fix
+     Line 9:
+       - 3. View your message list
+       + 3. View your message list.
+
+  📄 content/how-to/process-bit-order.md — 1 fix
+     Line 41:
+       - 2. View previously fulfilled orders
+       + 2. View previously fulfilled orders.
+
+  📄 content/installation/desktop.md — 1 fix
+     Line 16:
+       - 2. Search for "Asset Management"
+       + 2. Search for "Asset Management".
+
+  📄 content/installation/mobile.md — 2 fixes
+     Line 16:
+       - 2. Search for **Intune Company Portal**
+       + 2. Search for **Intune Company Portal**.
+     Line 17:
+       - 3. Download and install the app
+       + 3. Download and install the app.
+
+  📄 content/views/add-edit-customer-rep.md — 1 fix
+     Line 35:
+       - 1. Search for the customer rep
+       + 1. Search for the customer rep.
+
+  📄 content/views/find-bits.md — 1 fix
+     Line 15:
+       - - Search inventory across multiple locations
+       + - Search inventory across multiple locations.
+
+  📄 content/views/index.md — 1 fix
+     Line 47:
+       - - View details for that item
+       + - View details for that item.
+
+
+============================================================
+  Summary: 9 periods added across 8 files
+  Run with --apply to make changes
+  Run with --apply --verbose for full details
+============================================================
+

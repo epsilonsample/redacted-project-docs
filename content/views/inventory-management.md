@@ -28,7 +28,7 @@ The Inventory Management view displays all bits in your inventory with their cur
 
 Add bits to the pending queue:
 
-- **Desktop:** Enter serial number manually
+- **Desktop:** Enter serial number manually.
 - **Mobile/iPad:** Scan the barcode
 
 ## Table Features
@@ -50,15 +50,15 @@ Use the search box above the table to search across all columns:
 
 **To sort:**
 
-1. Click to the left of the funnel icon in a column header
+1. Click to the left of the funnel icon in a column header.
 2. Sort arrows appear
-3. Click up/down arrow to sort
+3. Click up/down arrow to sort.
 
 **To filter:**
 
-1. Click the funnel icon in a column header
-2. Select filter options from the popup
-3. Filters remain until cleared
+1. Click the funnel icon in a column header.
+2. Select filter options from the popup.
+3. Filters remain until cleared.
 
 **To clear:**
 Click **Clear filter-sort** to reset all sorting and filtering.
