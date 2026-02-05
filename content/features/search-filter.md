@@ -1,6 +1,6 @@
 # Searching and Filtering Data
 
-Project Documentation provides powerful search and filtering capabilities across all views. This guide covers the common patterns used throughout the application.
+Asset Management provides powerful search and filtering capabilities across all views. This guide covers the common patterns used throughout the application.
 
 ## Global Search
 
