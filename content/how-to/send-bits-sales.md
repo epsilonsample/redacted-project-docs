@@ -10,7 +10,7 @@ Transfer bits from inventory to a field sales representative.
 
 ## Steps
 
-1. Navigate to **Inventory Management**.
+1. Navigate to the **Inventory Management** view.
 2. Find the bit(s) you want to send.
 3. Click on the bit row to open Bit Details.
 4. Click **Send to Sales**.
