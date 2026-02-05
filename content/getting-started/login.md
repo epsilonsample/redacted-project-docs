@@ -5,8 +5,8 @@ Follow these steps to access the Asset Management application.
 ### Step 1: Open the Application
 
 Launch the application from:
-- **Desktop:** Double-click the icon on your desktop.
-- **Mobile/iPad:** Tap the app icon.
+    - **Desktop:** Double-click the icon on your desktop.
+    - **Mobile/iPad:** Tap the app icon.
 
 ### Step 2: Enter Credentials
 
