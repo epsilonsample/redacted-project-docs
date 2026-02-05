@@ -12,15 +12,15 @@ Request bits from inventory to be sent to you.
 1. Navigate to **My Bits**.
 2. Click the **Bit Order** button at the top.
 3. Fill in the order details:
-   - Select the bit type needed.
-   - Specify quantity
-   - Add any notes or requirements.
-4. Review your order
-5. Click **Submit**
+    - Select the bit type needed.
+    - Select the quantity of bits.
+    - Add any notes or requirements.
+4. Review your order for accuracy.
+5. Click the **Submit** button.
 
 ## Order Information
 
-When placing an order, specify:
+When placing an order, verify:
 
 - Product type or specifications
 - Quantity needed
