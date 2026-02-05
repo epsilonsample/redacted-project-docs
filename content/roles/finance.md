@@ -27,7 +27,7 @@ As a Finance user, you have access to:
 
 1. Navigate to the login page.
 2. Enter your **Username** and **Password**.
-3. Click **Log In**
+3. Click the **Log In** button.
 
 You will be taken directly to the eBilling Workbench view.
 

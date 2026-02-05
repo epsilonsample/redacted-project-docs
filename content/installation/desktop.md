@@ -59,7 +59,7 @@ Install Asset Management on your Windows desktop.
 
 ### Step 7: Log In to Application
 
-1. Click **Log In**
+1. Click the **Log In** button.
 2. Your Profile page displays.
 3. Configure your role settings (first time only).
 
