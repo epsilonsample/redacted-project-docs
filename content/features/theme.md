@@ -4,7 +4,7 @@ Switch between dark and light display themes for comfortable viewing.
 
 ## Changing the Theme
 
-1. Click **☰** (hamburger) menu icon at the top left.
+1. Click the **☰** (hamburger) menu icon at the top left.
 2. Find **Dark/Light** option
 3. Select your preference:
    - **Dark** — Dark background with light text.
