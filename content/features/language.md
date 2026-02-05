@@ -12,7 +12,7 @@ The application supports:
 
 ## Changing the Language
 
-1. Click **☰** (hamburger) menu icon at the top left.
+1. Click the **☰** (hamburger) menu icon at the top left.
 2. Click the **Language** option.
 3. Select your preferred language from the list.
 4. The application updates immediately.
