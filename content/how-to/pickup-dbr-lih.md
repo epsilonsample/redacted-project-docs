@@ -10,26 +10,26 @@ Process pickup for Damaged Beyond Repair (DBR) or Lost In Hole (LIH) bits.
 
 ## Steps
 
-1. Navigate to **eBilling Workbench**.
+1. Navigate to the **eBilling Workbench** view from the left menu.
 2. Find the ticket line for the DBR or LIH bit.
 3. Click on the ticket line to open the action menu.
-4. Click **Pick Up** (or similar action).
+4. Click the **Pick Up** button.
 5. Select the appropriate status:
-   - **DBR** - Damaged Beyond Repair
-   - **LIH** - Lost In Hole
-6. Enter required details:
-   - Date
-   - Circumstances
-   - Documentation notes
-7. Review the information
-8. Click **Submit**
+    - **DBR** - Damaged Beyond Repair
+    - **LIH** - Lost In Hole
+6. Enter the required details in the dialog:
+    - Date
+    - Circumstances
+    - Documentation notes
+7. Review the information for accuracy.
+8. Click the **Submit** button.
 
 ## DBR - Damaged Beyond Repair
 
 Use this status when:
 
 - Bit is physically damaged and cannot be reused.
-- Damage occurred during normal operations
+- Damage occurred during normal operations.
 - Bit is being retired from service.
 
 ## LIH - Lost In Hole
@@ -37,17 +37,17 @@ Use this status when:
 Use this status when:
 
 - Bit was lost downhole.
-- Bit cannot be recovered
+- Bit cannot be recovered.
 - Fishing attempts were unsuccessful.
 
 ## Required Documentation
 
 For DBR/LIH pickups, document:
 
-- Incident description
-- Date and well information
-- Photos if available (for DBR).
-- Any recovery attempts (for LIH).
+- The incident description.
+- All date and well information
+- Any available photos (for DBR).
+- Information about any recovery attempts (for LIH).
 
 ## After Processing
 
