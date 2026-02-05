@@ -12,8 +12,8 @@ The application supports:
 
 ## Changing the Language
 
-1. Open the navigation menu (click **☰**).
-2. Click **Language**
+1. Click **☰** (hamburger) menu icon at the top left.
+2. Click the **Language** option.
 3. Select your preferred language from the list.
 4. The application updates immediately.
 
