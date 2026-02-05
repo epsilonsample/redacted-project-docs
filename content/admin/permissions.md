@@ -7,7 +7,7 @@ Manage user access permissions by district or individual user.
 
 ## Accessing Permissions
 
-1. Click **Permissions View** on the Add/Edit Users page, or.
+1. Click the **Permissions View** from the Add/Edit Users page, or
 2. Select **ADMIN: Permissions** from the left navigation menu.
 
 ## Overview
@@ -25,23 +25,24 @@ Manage permissions at the district level to apply settings to all users in that 
 
 ### Adding District Permissions
 
-1. Select **District Permissions**
-2. Choose the district
-3. Configure permission settings
-4. Save changes
+1. Select **District Permissions**.
+2. Choose the district from the dropdown.
+3. Configure permission settings.
+4. Click the **Save** button to confirm changes.
 
 ### Editing District Permissions
 
-1. Select **District Permissions**
-2. Find the district
-3. Modify settings
-4. Save changes
+1. Select **District Permissions**.
+2. Choose the district from the dropdown.
+3. Modify settings.
+4. Click the **Save** button to confirm changes.
 
 ### Deleting District Permissions
 
-1. Select **District Permissions**
+1. Select **District Permissions**.
 2. Find the permission to remove.
-3. Delete the permission
+3. Delete the permission.
+4. Click the **Save** button to confirm changes.
 
 ## User Permissions { #by-user }
 
@@ -49,30 +50,31 @@ Manage permissions for individual users when district-level settings don't apply
 
 ### Adding User Permissions
 
-1. Select **User Permissions**
-2. Find or select the user.
-3. Configure permission settings
-4. Save changes
+1. Select **User Permissions**.
+2. Select the user from the results table.
+3. Configure permission settings.
+4. Click the **Save** button to confirm changes.
 
 ### Editing User Permissions
 
-1. Select **User Permissions**
-2. Find the user
-3. Modify their settings
-4. Save changes
+1. Select **User Permissions**.
+2. Find the user from the results table.
+3. Modify their settings.
+4. Click the **Save** button to confirm changes.
 
 ### Deleting User Permissions
 
-1. Select **User Permissions**
-2. Find the user
+1. Select **User Permissions**.
+2. Find the user from the results table.
 3. Remove the specific permission.
+4. Click the **Save** button to confirm changes.
 
 ## Best Practices
 
 - Use **District Permissions** for standard access patterns.
 - Use **User Permissions** for exceptions.
-- Document permission changes
-- Review permissions periodically
+- Document permission changes with Asset Management administrators.
+- Review permissions weekly for new, removed, or modified employees.
 
 ## Related Documentation
 
