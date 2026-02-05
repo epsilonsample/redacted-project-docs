@@ -4,7 +4,6 @@ Unlocking a bit makes it available for transfers again.
 
 ## Prerequisites
 
-- Access to Inventory Management view
 - Inventory Manager role
 - The bit is currently locked.
 
