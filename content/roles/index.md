@@ -41,4 +41,4 @@ All roles have access to these features:
 
 If you have access to multiple roles, you can switch between them in your Profile settings.
 
-[Learn how to change roles :material-arrow-right:](../features/profile.md#changing-roles){ .md-button }
+[Learn how to change roles :material-arrow-right:](../features/../features/profile.md#changing-roles){ .md-button }
