@@ -49,11 +49,13 @@ Use the search box above the table to search across all columns:
 ### Sorting and Filtering
 
 **To sort:**
+
 1. Click to the left of the funnel icon in a column header
 2. Sort arrows appear
 3. Click up/down arrow to sort
 
 **To filter:**
+
 1. Click the funnel icon in a column header
 2. Select filter options from the popup
 3. Filters remain until cleared
