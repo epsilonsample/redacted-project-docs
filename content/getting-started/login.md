@@ -6,14 +6,14 @@ Follow these steps to access the Asset Management application.
 
 Launch the application from:
 - **Desktop:** Double-click the icon on your desktop.
-- **Mobile/iPad:** Tap the app icon
+- **Mobile/iPad:** Tap the app icon.
 
 ### Step 2: Enter Credentials
 
 1. Enter your **network email address**.
-2. Click **Next**
-3. Enter your **password**
-4. Click **Sign In**
+2. Click the **Next** button.
+3. Enter your **password**.
+4. Click the **Sign In** button.
 
 ![Login Screen Placeholder](../assets/images/placeholder-table-view.svg)
 
@@ -27,8 +27,8 @@ Launch the application from:
 
 After authentication:
 1. The Welcome screen appears (first time only).
-2. Click **Continue**
-3. Click **Log In**
+2. Click the **Continue** button.
+3. Click the **Log In** button.
 4. Configure your profile (first time only).
 
 ## Troubleshooting
@@ -42,7 +42,7 @@ After authentication:
 ### MFA Issues
 
 - Ensure your authenticator app is synced.
-- Try an alternate verification method
+- Try an alternate verification method.
 - Contact IT Support if issues persist.
 
 ### Account Locked
