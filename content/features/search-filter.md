@@ -24,11 +24,10 @@ Most views include a **global search box** above the data table. This searches a
 ### Desktop & iPad
 
 1. Hover over a column header
-2. Click to the **left** of the funnel icon.
-3. Sort arrows appear
-4. Click the **up arrow** to sort ascending.
-5. Click the **down arrow** to sort descending.
-6. Click again to remove sorting.
+2. Click to the **left** of the funnel icon to reveal the sort arrows.
+3. Click the **up arrow** to sort ascending.
+4. Click the **down arrow** to sort descending.
+5. Click either arrow again to remove sorting.
 
 ![Column Sorting Placeholder](../assets/images/placeholder-column-sort.svg)
 
