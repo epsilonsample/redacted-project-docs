@@ -26,7 +26,7 @@ As an Account Rep, you have access to:
 
 1. Navigate to the login page.
 2. Enter your **Username** and **Password**.
-3. Click **Log In**
+3. Click the **Log In** button.
 
 You will be taken directly to the eBilling Workbench view.
 
@@ -65,9 +65,9 @@ Access additional views through the left navigation menu:
 
 As an Account Rep, you **cannot**:
 
-- Edit well information
+- Edit well information.
 - Add or modify PDFs/photos.
-- Update account assignments
+- Update account assignments.
 - Create or modify tickets.
 
 ## Related Documentation
