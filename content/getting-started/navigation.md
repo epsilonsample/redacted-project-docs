@@ -46,7 +46,7 @@ Click any breadcrumb to navigate back.
 
 On mobile devices:
 
-- Tap **☰** to open the navigation drawer.
+- Tap the **☰** (hamburger) icon to open the navigation drawer.
 - Swipe right from the left edge to open the menu.
 - Tap outside the menu to close it.
 
