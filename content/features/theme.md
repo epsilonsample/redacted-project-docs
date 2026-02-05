@@ -16,9 +16,9 @@ Switch between dark and light display themes for comfortable viewing.
 
 Dark mode features:
 
-    - Dark background colors.
-    - Reduced eye strain in low-light environments.
-    - Lower screen brightness.
+- Dark background colors.
+- Reduced eye strain in low-light environments.
+- Lower screen brightness.
 
 ## Light Mode
 
@@ -26,9 +26,9 @@ Dark mode features:
 
 Light mode features:
 
-    - Light background colors,
-    - Better visibility in bright environments.
-    - Traditional document appearance.
+- Light background colors,
+- Better visibility in bright environments.
+- Traditional document appearance.
 
 ## When to Use Each
 
