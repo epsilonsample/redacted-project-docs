@@ -5,22 +5,21 @@ Create a delivery ticket to document bit delivery to a customer.
 ## Prerequisites
 
 - Field Sales role
-- Access to My Bits view
 - Bit is in your inventory.
 
 ## Steps
 
-1. Navigate to **My Bits**.
-2. Find the bit you want to deliver.
+1. Navigate to the **My Bits** view from the left menu.
+2. Find the bit you want to deliver in the results table.
 3. Click on the bit row to open Bit Details.
-4. Click **Create Delivery Ticket**.
+4. Click the **Create Delivery Ticket** button.
 5. Enter the delivery information:
    - Customer name
    - Well name and location
    - Delivery date
    - Any special notes
-6. Review all information
-7. Click **Submit**
+6. Review all information for accuracy.
+7. Click the **Submit** button.
 
 ## Required Information
 
@@ -43,8 +42,8 @@ A delivery ticket typically includes:
 
 If a tariff surcharge applies:
 
-1. Look for the **Tariff Surcharge** toggle on the delivery ticket.
-2. Enable the toggle to add the surcharge.
+1. Enable the **Tariff Surcharge** toggle on the delivery ticket.
+2. Enter the surcharge information.
 3. The surcharge is included in the billing documentation.
 
 ## Related Documentation
