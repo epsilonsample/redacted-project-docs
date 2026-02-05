@@ -3,7 +3,7 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Project Documentation',
+  title: 'Asset Management',
   tagline: 'User Documentation',
   favicon: 'img/favicon.ico',
 
