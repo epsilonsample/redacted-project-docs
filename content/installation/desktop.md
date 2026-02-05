@@ -1,6 +1,6 @@
 # Desktop Installation
 
-Install the Project Documentation application on your Windows desktop.
+Install Asset Management on your Windows desktop.
 
 ## Prerequisites
 
@@ -12,27 +12,27 @@ Install the Project Documentation application on your Windows desktop.
 
 ### Step 1: Open Software Center
 
-1. Open the **Software Center** on your computer
-2. Search for "Project Documentation"
+1. Open **Software Center** on your computer
+2. Search for "Asset Management"
 3. Select the appropriate version:
 
 | Icon | Version | Use Case |
 |------|---------|----------|
-| ![UAT Icon](../assets/images/placeholder-icon-uat.svg) | Project Documentation (UAT) | Testing environment |
-| ![Prod Icon](../assets/images/placeholder-icon-prod.svg) | Project Documentation (Production) | Production use |
+| ![UAT Icon](../assets/images/placeholder-icon-uat.svg) | Asset Management (UAT) | Testing environment |
+| ![Prod Icon](../assets/images/placeholder-icon-prod.svg) | Asset Management (Production) | Production use |
 
 ### Step 2: Install the Application
 
 1. Click on the application icon to open the details page
 2. Click **Install**
 3. Wait for the installation to complete
-4. The Project Documentation icon will appear on your desktop
+4. The Asset Management icon will appear on your desktop
 
 ![Desktop Icon Placeholder](../assets/images/placeholder-desktop-icon.svg)
 
 ### Step 3: First-Time Sign In
 
-1. Double-click the **Project Documentation** icon
+1. Double-click the **Asset Management** icon
 2. The Single Sign-On page appears
 3. Enter your **network email address**
 4. Click **Next**
@@ -53,7 +53,7 @@ Install the Project Documentation application on your Windows desktop.
 
 ### Step 6: Welcome Screen
 
-1. The Project Documentation Welcome page appears (first time only)
+1. The Asset Management Welcome page appears (first time only)
 2. Click **Continue**
 3. The application splash screen displays
 
@@ -64,13 +64,13 @@ Install the Project Documentation application on your Windows desktop.
 3. Configure your role settings (first time only)
 
 !!! success "Installation Complete"
-    Congratulations! Project Documentation is now installed on your desktop.
+    Congratulations! Asset Management is now installed on your desktop.
 
 ## Troubleshooting
 
 ### Application Not in Software Center
 
-Contact IT Support to request access to the Project Documentation application.
+Contact IT Support to request access to the Asset Management application.
 
 ### Sign-In Issues
 
