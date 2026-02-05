@@ -2,6 +2,9 @@
 
 The eTransfer Tickets view manages electronic transfer tickets for sending and receiving bits.
 
+!!! tip "Quick Actions"
+    :material-check-circle: [Accept Transfer](../how-to/accept-transfer.md) · :material-send: [Send to Sales](../how-to/send-bits-sales.md) · :material-account-arrow-right: [Send to Rep](../how-to/send-bits-rep.md) · :material-flash: [Quick Send](../how-to/quick-send.md) · :material-warehouse: [Return Bits](../how-to/return-bits.md)
+
 !!! info "Role Availability"
     This view is available to: Inventory Manager, Field Sales
 

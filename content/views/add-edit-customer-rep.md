@@ -2,6 +2,9 @@
 
 The Add/Edit Customer Rep view allows management of customer representative records.
 
+!!! tip "Quick Actions"
+    :material-account-plus: **Add new rep** — Navigate to Add/Edit Customer Rep → Fill in required fields → Save · :material-account-edit: **Edit existing rep** — Search → Select record → Update → Save
+
 !!! info "Role Availability"
     This view is available to: Billing, Rep Manager
 

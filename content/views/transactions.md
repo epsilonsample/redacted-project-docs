@@ -2,6 +2,9 @@
 
 The Transactions view displays bit orders and inventory transactions.
 
+!!! tip "Quick Actions"
+    :material-package-variant: [Process a Bit Order](../how-to/process-bit-order.md) · :material-cart: [Submit a Bit Order](../how-to/submit-bit-order.md) · :material-magnify: [Where Is My Bit?](../how-to/find-my-bit.md)
+
 !!! info "Role Availability"
     This view is available to: Inventory Manager
 

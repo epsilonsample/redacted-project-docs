@@ -2,6 +2,9 @@
 
 The My Bits view is the home page for the Field Sales role, displaying all bits currently assigned to you.
 
+!!! tip "Quick Actions"
+    :material-cart: [Submit Bit Order](../how-to/submit-bit-order.md) · :material-account-arrow-right: [Send to Rep](../how-to/send-bits-rep.md) · :material-handshake: [Consign a Bit](../how-to/consign-bit.md) · :material-ticket: [Create Delivery Ticket](../how-to/create-delivery-ticket.md) · :material-flash: [Quick Send](../how-to/quick-send.md)
+
 !!! info "Role Availability"
     This view is available to: Field Sales
 

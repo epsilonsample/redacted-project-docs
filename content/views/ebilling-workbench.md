@@ -2,6 +2,9 @@
 
 The eBilling Workbench is the central hub for managing service receipts, delivery tickets, and billing operations.
 
+!!! tip "Quick Actions"
+    :material-magnify: [Find Tickets](../how-to/find-tickets.md) · :material-receipt: [Create Service Receipt](../how-to/create-sr-ticket.md) · :material-package-up: [Pick Up Bits](../how-to/pickup-bits.md) · :material-alert-circle: [Pick Up DBR/LIH](../how-to/pickup-dbr-lih.md) · :material-crosshairs-question: [Where Is My Bit?](../how-to/find-my-bit.md)
+
 !!! info "Role Availability"
     This view is available to: Field Sales, Billing, Account Rep, Finance
 

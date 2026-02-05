@@ -2,6 +2,9 @@
 
 The Inventory Management view is the home page for the Inventory Manager role, providing tools to manage bit inventory and stock levels.
 
+!!! tip "Quick Actions"
+    :material-lock: [Lock a Bit](../how-to/lock-bit.md) · :material-lock-open: [Unlock a Bit](../how-to/unlock-bit.md) · :material-send: [Send to Sales](../how-to/send-bits-sales.md) · :material-warehouse: [Return Bits](../how-to/return-bits.md) · :material-package-variant: [Process Bit Order](../how-to/process-bit-order.md)
+
 !!! info "Role Availability"
     This view is available to: Inventory Manager
 
